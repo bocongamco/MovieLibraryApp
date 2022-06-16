@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "385953878462",
+    "firebase_url": "https://fit2081week8-fbc4e-default-rtdb.firebaseio.com",
+    "project_id": "fit2081week8-fbc4e",
+    "storage_bucket": "fit2081week8-fbc4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385953878462:android:098c30ca171975d2a069ef",
+        "android_client_info": {
+          "package_name": "monash.example.newlibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385953878462-3oc7f0hlj6k6dn9gnprjuigsceu0713u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYOQ0LBlQ4dXqg1clzdangYQCA_47fUKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385953878462-3oc7f0hlj6k6dn9gnprjuigsceu0713u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
